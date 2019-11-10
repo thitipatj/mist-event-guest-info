@@ -8,7 +8,9 @@ The python file need configuration file to run. Please create "config.ini" with 
 
 Here's the component of the project:
 
-## Configuration File Example:
+## config.ini
+This is example of the content in configuration file.
+See here on how to get your Org-id/Site-id: https://www.mist.com/documentation/find-org-site-id/
 
 ```
 [Global_Var]
